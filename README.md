@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 This screenshot shows the final set of **unique and cleaned skincare reviews** extracted from Reddit after removing duplicates and irrelevant posts.
 
-![Unique Output Table](/unique.png)
+![Unique Output Table](/unique.jpg)
+
 
 📌 This refined table only includes posts with meaningful skincare content, unique users, and enriched fields like detected `skin_type`, `age`, and `location`.
 
