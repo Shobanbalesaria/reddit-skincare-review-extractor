@@ -1,2 +1,2 @@
-pip install praw
-pip install pandas
+praw
+pandas
