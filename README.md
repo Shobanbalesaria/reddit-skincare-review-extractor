@@ -20,10 +20,6 @@ pip install -r requirements.txt
 3. Add your Reddit credentials in the notebook
 4. Run the notebook: `reddit_scraper.ipynb`
 
-## ⚠️ Note
-
-- Do NOT upload your Reddit credentials to GitHub.
-- Add them securely via `.env` or a config file (ignored in `.gitignore`)
 
 ## 📌 Subreddit Example
 - r/SkincareAddiction
