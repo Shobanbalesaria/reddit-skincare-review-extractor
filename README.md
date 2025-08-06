@@ -30,12 +30,12 @@ pip install -r requirements.txt
 
 ✨ The table includes: `product_id`, `title`, `review_content`, `username`, `review_date`, `detected_skin_type`, `detected_age`, and `detected_location` — extracted from Reddit posts and enriched using simple logic.
 
-## 🧼 Cleaned & Unique Reviews Output
 
-This screenshot shows the final set of **unique and cleaned skincare reviews** extracted from Reddit after removing duplicates and irrelevant posts.
+## 🧴 Unique Skincare Products Extracted
+
+This screenshot displays the structured list of **unique skincare products** mentioned in Reddit posts. Each product is categorized based on its type, such as Cleanser, Moisturizer, etc.
 
 ![Unique Output Table](/unique.jpg)
 
-
-📌 This refined table only includes posts with meaningful skincare content, unique users, and enriched fields like detected `skin_type`, `age`, and `location`.
+<sub>🧠 This table helps identify the most commonly recommended products in skincare communities, grouped by brand and category.</sub>
 
