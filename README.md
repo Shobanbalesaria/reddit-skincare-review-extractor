@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 ## 📊 Sample Output (Final Structured Data)
 
-![Final Output Table](photos)
+![Final Output Table](final.jpg)
 
 ✨ The table includes: `product_id`, `title`, `review_content`, `username`, `review_date`, `detected_skin_type`, `detected_age`, and `detected_location` — extracted from Reddit posts and enriched using simple logic.
